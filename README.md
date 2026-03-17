@@ -121,8 +121,3 @@ Despite nationwide coverage, significant enrolment gaps persist across age group
 
 This project transforms raw UIDAI enrolment data into **actionable intelligence**. The combination of **EDA, feature engineering, risk scoring, and policy recommendations** demonstrates how data can directly support government initiatives for inclusive digital identity coverage.
 
-
-
----
-
-## 📂 Project Structure
